@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "kind_heart_me" {
-bucket = "lovebucket143"
+bucket = "hdp_psa"
 
 }
 
